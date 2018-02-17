@@ -1,0 +1,30 @@
+# Dependencies
+# markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        /:year/:month/:day/:title/
+# relative_permalinks: true
+
+# Setup
+title:            MullOver
+tagline:          MullOver
+description:      lomyal's blog
+url:              http://mullover.me
+baseurl:          /
+
+author:
+  name:           lomyal
+  url:            http://mullover.me
+
+plugins:
+  - jekyll-paginate
+  - redcarpet
+  - jekyll-gist
+  - pygments.rb
+
+paginate:         5
+
+
+github:
+  repo:           https://github.com/lomyal
