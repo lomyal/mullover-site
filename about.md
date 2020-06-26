@@ -11,9 +11,9 @@ title: About lomyal
 > -- Charlie Munger
 
 
-王诗君 lomyal@foxmail.com
+WSJ lomyal@foxmail.com
 
-菜鸟机器学习工程师
+推荐算法工程师
 
 曾在以色列理工学院蹭过一个月的机器学习课程
 
